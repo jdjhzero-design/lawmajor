@@ -1,10 +1,16 @@
 const WRONG_ANSWERS_KEY = 'lawmajor-wrong-answers'
 const STATS_KEY = 'lawmajor-stats'
+const STATS_CHANGE_EVENT = 'lawmajor-stats-change'
 
 export type Stats = {
   totalAnswered: number
   totalCorrect: number
 }
+
+const EMPTY_STATS: Stats = { totalAnswered: 0, totalCorrect: 0 }
+
+let statsCacheKey: string | null = null
+let statsCache: Stats = EMPTY_STATS
 
 export function getWrongAnswerIds(): string[] {
   try {
@@ -32,12 +38,17 @@ export function clearWrongAnswers(): void {
 }
 
 export function getStats(): Stats {
+  const raw = localStorage.getItem(STATS_KEY)
+  const key = raw ?? ''
+  if (key === statsCacheKey) return statsCache
+
+  statsCacheKey = key
   try {
-    const raw = localStorage.getItem(STATS_KEY)
-    return raw ? (JSON.parse(raw) as Stats) : { totalAnswered: 0, totalCorrect: 0 }
+    statsCache = raw ? (JSON.parse(raw) as Stats) : EMPTY_STATS
   } catch {
-    return { totalAnswered: 0, totalCorrect: 0 }
+    statsCache = EMPTY_STATS
   }
+  return statsCache
 }
 
 export function updateStats(answered: number, correct: number): void {
@@ -49,4 +60,16 @@ export function updateStats(answered: number, correct: number): void {
       totalCorrect: current.totalCorrect + correct,
     }),
   )
+  statsCacheKey = null
+  window.dispatchEvent(new Event(STATS_CHANGE_EVENT))
+}
+
+export function subscribeStats(callback: () => void): () => void {
+  const handler = () => callback()
+  window.addEventListener(STATS_CHANGE_EVENT, handler)
+  window.addEventListener('storage', handler)
+  return () => {
+    window.removeEventListener(STATS_CHANGE_EVENT, handler)
+    window.removeEventListener('storage', handler)
+  }
 }
