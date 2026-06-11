@@ -1,0 +1,130 @@
+[
+  {
+    "id": "I-01",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 1,
+    "question": "중대산업재해 발생사실 공표 권한자는?",
+    "choices": [
+      "고용노동부장관",
+      "법무부장관",
+      "사업주",
+      "검찰"
+    ],
+    "answerIndex": 0,
+    "explanation": "제13조제1항: 고용노동부장관이 제4조 위반 중대산업재해 발생사실을 공표할 수 있습니다.",
+    "lawRef": "법 제13조제1항"
+  },
+  {
+    "id": "I-02",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "공표 대상 중대산업재해의 요건은?",
+    "choices": [
+      "제4조 의무 위반으로 발생하고 형이 확정·통보된 사업장",
+      "모든 중대산업재해",
+      "사망사고만",
+      "5인 이상 사업장만"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제12조제1항: 제4조 위반 중대산업재해로 제12조에 따라 형이 확정·통보된 사업장.",
+    "lawRef": "시행령 제12조제1항"
+  },
+  {
+    "id": "I-03",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "공표 전 사업주·경영책임자등에게 부여하는 기회는?",
+    "choices": [
+      "30일 이상 소명자료 제출 또는 의견 진술",
+      "7일 이내 이의신청",
+      "즉시 공표",
+      "60일 이상 소명"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제12조제3항: 공표 전 30일 이상 기간을 정해 소명·의견진술 기회를 줍니다.",
+    "lawRef": "시행령 제12조제3항"
+  },
+  {
+    "id": "I-04",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "홈페이지 게시 방식으로 공표하는 경우 공표기간은?",
+    "choices": [
+      "1년",
+      "6개월",
+      "3년",
+      "30일"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제12조제5항: 홈페이지 게시 공표 시 공표기간은 1년입니다.",
+    "lawRef": "시행령 제12조제5항"
+  },
+  {
+    "id": "I-05",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "공표 내용에 포함되는 사항이 아닌 것은?",
+    "choices": [
+      "사업주의 가족 관계",
+      "사업장 명칭",
+      "발생 일시·장소",
+      "최근 5년 내 중대산업재해 발생 여부"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제12조제2항: 공표 내용은 사업장명, 일시·장소, 피해자 수, 재해 내용·원인, 5년 내 발생 여부 등.",
+    "lawRef": "시행령 제12조제2항"
+  },
+  {
+    "id": "I-06",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "조치 이행사항 서면 보관 기간은?",
+    "choices": [
+      "5년",
+      "3년",
+      "10년",
+      "1년"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제13조: 제4조·제5조 등 조치 이행사항 서면을 이행일부터 5년간 보관.",
+    "lawRef": "시행령 제13조"
+  },
+  {
+    "id": "I-07",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "서면 보관 의무 대상에서 제외되는 사업주는?",
+    "choices": [
+      "소상공인",
+      "법인 사업주",
+      "500인 이상 사업장",
+      "건설사업자"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제13조: 소상공인기본법상 소상공인은 서면 보관 의무에서 제외됩니다.",
+    "lawRef": "시행령 제13조"
+  },
+  {
+    "id": "I-08",
+    "category": "I",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "공표 방법으로 옳은 것은?",
+    "choices": [
+      "관보, 고용노동부·한국산업안전보건공단 홈페이지 게시",
+      "사업주 SNS 게시만",
+      "구두 통보",
+      "사업장 게시판만"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제12조제4항: 관보 및 고용노동부·공단 홈페이지 게시 방법으로 공표합니다.",
+    "lawRef": "시행령 제12조제4항"
+  }
+]

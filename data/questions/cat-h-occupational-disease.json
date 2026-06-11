@@ -1,0 +1,450 @@
+[
+  {
+    "id": "H-01",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 1,
+    "question": "시행령상 「직업성 질병자」의 정의는?",
+    "choices": [
+      "별표1에서 정하는 직업성 질병에 걸린 사람",
+      "모든 업무상 질병에 걸린 사람",
+      "산재보험법상 업무상 질병 전체",
+      "6개월 이상 치료가 필요한 질병자"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제2조: 직업성 질병자란 별표1 직업성 질병에 걸린 사람을 말합니다.",
+    "lawRef": "시행령 제2조"
+  },
+  {
+    "id": "H-02",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "황화수소 노출로 발생하는 별표1 직업성 질병 증상이 아닌 것은?",
+    "choices": [
+      "메트헤모글로빈혈증",
+      "의식소실",
+      "무호흡",
+      "후각신경마비"
+    ],
+    "answerIndex": 0,
+    "explanation": "황화수소(8호): 의식소실, 무호흡, 폐부종, 후각신경마비. 메트헤모글로빈혈증은 이산화질소(7호) 증상.",
+    "lawRef": "별표1 제8호"
+  },
+  {
+    "id": "H-03",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "이산화질소 노출 시 나타나는 증상으로 옳은 것은?",
+    "choices": [
+      "메트헤모글로빈혈증, 청색증",
+      "의식소실, 무호흡",
+      "스티븐스존슨 증후군",
+      "열사병"
+    ],
+    "answerIndex": 0,
+    "explanation": "이산화질소(7호): 점막자극, 메트헤모글로빈혈증, 청색증, 두근거림, 호흡곤란 등.",
+    "lawRef": "별표1 제7호"
+  },
+  {
+    "id": "H-04",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "벤젠 노출 시 나타날 수 있는 증상은?",
+    "choices": [
+      "경련, 급성 기질성 뇌증후군, 혼수상태",
+      "열사병",
+      "감압병",
+      "렙토스피라증"
+    ],
+    "answerIndex": 0,
+    "explanation": "벤젠(5호): 두통, 현기증, 경련, 급성 기질성 뇌증후군, 혼수상태 등 급성중독.",
+    "lawRef": "별표1 제5호"
+  },
+  {
+    "id": "H-05",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "별표1에 해당하지 않는 질병은?",
+    "choices": [
+      "장기적 진폐증 (단독)",
+      "황화수소 급성중독",
+      "열사병",
+      "레지오넬라증"
+    ],
+    "answerIndex": 0,
+    "explanation": "별표1은 급성 직업성 질병 24종에 한정. 진폐증 등 만성 질병은 별표1에 없습니다.",
+    "lawRef": "별표1"
+  },
+  {
+    "id": "H-06",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "트리클로로에틸렌 노출로 발생하는 스티븐스존슨 증후군의 인정 조건은?",
+    "choices": [
+      "노출 업무 종사 후 3개월 이내, 다른 원인(약물·감염 등) 제외",
+      "노출 후 1년 이내",
+      "퇴직 후 제한 없음",
+      "1명만 발생해도 인정"
+    ],
+    "answerIndex": 0,
+    "explanation": "15호: TCE 노출 후 3개월 이내만 해당. 약물, 감염, HIV, 악성종양 등 다른 원인 제외.",
+    "lawRef": "별표1 제15호"
+  },
+  {
+    "id": "H-07",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "디메틸포름아미드(DMF) 노출로 발생하는 별표1 질병은?",
+    "choices": [
+      "독성 간염",
+      "스티븐스존슨 증후군",
+      "반응성 기도과민증후군",
+      "렙토스피라증"
+    ],
+    "answerIndex": 0,
+    "explanation": "16호: TCE·DMF 노출 독성 간염. 3개월 이내, 약물·알코올·과체중·당뇨 등 다른 원인 제외.",
+    "lawRef": "별표1 제16호"
+  },
+  {
+    "id": "H-08",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "보건의료 종사자에게 발생하는 별표1 직업성 질병은?",
+    "choices": [
+      "B형·C형 간염, 매독, 후천성면역결핍증",
+      "일반 감기",
+      "요통",
+      "피부 건조증"
+    ],
+    "answerIndex": 0,
+    "explanation": "17호: 보건의료 종사자의 혈액전파성 질병(B형·C형 간염, 매독, HIV).",
+    "lawRef": "별표1 제17호"
+  },
+  {
+    "id": "H-09",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "습한 곳에서의 업무로 발생하는 별표1 질병은?",
+    "choices": [
+      "렙토스피라증",
+      "레지오넬라증",
+      "탄저",
+      "열사병"
+    ],
+    "answerIndex": 0,
+    "explanation": "18호: 습한 곳 업무로 발생한 렙토스피라증.",
+    "lawRef": "별표1 제18호"
+  },
+  {
+    "id": "H-10",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "오염된 냉각수로 발생하는 별표1 질병은?",
+    "choices": [
+      "레지오넬라증",
+      "렙토스피라증",
+      "브루셀라증",
+      "단독"
+    ],
+    "answerIndex": 0,
+    "explanation": "20호: 오염된 냉각수 등으로 발생한 레지오넬라증.",
+    "lawRef": "별표1 제20호"
+  },
+  {
+    "id": "H-11",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "고기압·저기압 노출로 발생하는 별표1 질병이 아닌 것은?",
+    "choices": [
+      "열사병",
+      "감압병(잠수병)",
+      "공기색전증",
+      "압착증"
+    ],
+    "answerIndex": 0,
+    "explanation": "21호: 압착증, 산소독성, 감압병, 공기색전증. 열사병은 24호(고온 작업).",
+    "lawRef": "별표1 제21호"
+  },
+  {
+    "id": "H-12",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "덥고 뜨거운 장소 업무로 발생하는 별표1 질병은?",
+    "choices": [
+      "열사병",
+      "감압병",
+      "산소결핍증",
+      "급성 방사선증"
+    ],
+    "answerIndex": 0,
+    "explanation": "24호: 덥고 뜨거운 장소 업무로 발생한 열사병.",
+    "lawRef": "별표1 제24호"
+  },
+  {
+    "id": "H-13",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "전리방사선 노출로 발생하는 별표1 질병은?",
+    "choices": [
+      "급성 방사선증, 무형성 빈혈",
+      "독성 간염",
+      "반응성 기도과민증후군",
+      "B형 간염"
+    ],
+    "answerIndex": 0,
+    "explanation": "23호: 전리방사선 노출 급성 방사선증, 무형성 빈혈.",
+    "lawRef": "별표1 제23호"
+  },
+  {
+    "id": "H-14",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "디이소시아네이트·염소·염화수소·염산 노출 시 발생하는 질병은?",
+    "choices": [
+      "반응성 기도과민증후군",
+      "스티븐스존슨 증후군",
+      "독성 간염",
+      "렙토스피라증"
+    ],
+    "answerIndex": 0,
+    "explanation": "14호: 디이소시아네이트, 염소, 염화수소, 염산 노출 반응성 기도과민증후군.",
+    "lawRef": "별표1 제14호"
+  },
+  {
+    "id": "H-15",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "동물·사체·털·가죽 등 취급으로 발생하는 별표1 질병이 아닌 것은?",
+    "choices": [
+      "레지오넬라증",
+      "탄저",
+      "단독(erysipelas)",
+      "브루셀라증"
+    ],
+    "answerIndex": 0,
+    "explanation": "19호: 탄저, 단독, 브루셀라증. 레지오넬라증은 오염 냉각수(20호).",
+    "lawRef": "별표1 제19호"
+  },
+  {
+    "id": "H-16",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "공기 중 산소농도 부족 장소에서 발생하는 별표1 질병은?",
+    "choices": [
+      "산소결핍증",
+      "감압병",
+      "열사병",
+      "급성 방사선증"
+    ],
+    "answerIndex": 0,
+    "explanation": "22호: 공기 중 산소농도 부족 장소 산소결핍증.",
+    "lawRef": "별표1 제22호"
+  },
+  {
+    "id": "H-17",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "납 또는 그 화합물(유기납 제외) 노출 시 나타나는 증상은?",
+    "choices": [
+      "납 창백, 복부 산통, 관절통",
+      "치조농루, 단백뇨",
+      "세뇨관 괴사",
+      "피부궤양"
+    ],
+    "answerIndex": 0,
+    "explanation": "2호: 납(유기납 제외) 노출 납 창백, 복부 산통, 관절통. 치조농루는 수은(3호).",
+    "lawRef": "별표1 제2호"
+  },
+  {
+    "id": "H-18",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "크롬 노출 시 나타나는 증상은?",
+    "choices": [
+      "세뇨관 기능 손상, 급성 세뇨관 괴사, 급성 신부전",
+      "납 창백",
+      "의식장해",
+      "열사병"
+    ],
+    "answerIndex": 0,
+    "explanation": "4호: 크롬 노출 세뇨관 기능 손상, 급성 세뇨관 괴사, 급성 신부전.",
+    "lawRef": "별표1 제4호"
+  },
+  {
+    "id": "H-19",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "불화수소·불산 노출 시 나타나는 증상이 아닌 것은?",
+    "choices": [
+      "후각신경마비",
+      "화학적 화상",
+      "청색증",
+      "폐수종"
+    ],
+    "answerIndex": 0,
+    "explanation": "10호: 점막자극, 화학적 화상, 청색증, 호흡곤란, 폐수종, 부정맥. 후각신경마비는 황화수소(8호).",
+    "lawRef": "별표1 제10호"
+  },
+  {
+    "id": "H-20",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "염화비닐·유기주석·메틸브로마이드·일산화탄소 노출 시 주요 증상은?",
+    "choices": [
+      "중추신경계장해",
+      "세뇨관 괴사",
+      "열사병",
+      "B형 간염"
+    ],
+    "answerIndex": 0,
+    "explanation": "1호: 염화비닐·유기주석·메틸브로마이드·일산화탄소 노출 중추신경계장해 등 급성중독.",
+    "lawRef": "별표1 제1호"
+  },
+  {
+    "id": "H-21",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 3,
+    "question": "별표1 제13호 「기타 화학적 인자」의 범위는?",
+    "choices": [
+      "산업안전보건법 시행규칙 별표21·22의 화학적 인자",
+      "모든 화학물질",
+      "K-REACH 등록 물질 전체",
+      "유기화합물 전체"
+    ],
+    "answerIndex": 0,
+    "explanation": "13호: 산업안전보건법 시행규칙 별표21·22에서 규정된 화학적 인자에 한합니다.",
+    "lawRef": "별표1 제13호"
+  },
+  {
+    "id": "H-22",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "카드뮴 노출 시 나타나는 별표1 질병은?",
+    "choices": [
+      "급성 위장관계 질병",
+      "세뇨관 괴사",
+      "폐섬유화",
+      "피부암"
+    ],
+    "answerIndex": 0,
+    "explanation": "12호: 카드뮴(일시적 다량 노출) 급성 위장관계 질병.",
+    "lawRef": "별표1 제12호"
+  },
+  {
+    "id": "H-23",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "인(백린·황린 등) 노출 시 나타날 수 있는 증상은?",
+    "choices": [
+      "피부궤양, 경련, 중추신경계장해",
+      "메트헤모글로빈혈증",
+      "감압병",
+      "렙토스피라증"
+    ],
+    "answerIndex": 0,
+    "explanation": "11호: 인(백린·황린 등) 노출 피부궤양, 점막자극, 경련, 폐부종, 중추·자율신경계장해.",
+    "lawRef": "별표1 제11호"
+  },
+  {
+    "id": "H-24",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "톨루엔·노말헥산 등 유기화합물 노출 시 나타나는 증상은?",
+    "choices": [
+      "의식장해, 경련, 부정맥",
+      "열사병",
+      "무형성 빈혈",
+      "탄저"
+    ],
+    "answerIndex": 0,
+    "explanation": "6호: 톨루엔·크실렌·스티렌·시클로헥산·노말헥산·TCE 등 유기화합물 의식장해, 경련, 부정맥.",
+    "lawRef": "별표1 제6호"
+  },
+  {
+    "id": "H-25",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 3,
+    "question": "동일 유해요인(황화수소)으로 별표1 질병이 2년에 걸쳐 3명 발생했다. 중대산업재해 다목 해당 여부는?",
+    "choices": [
+      "해당하지 않을 수 있음 (1년 이내 3명 요건 미충족)",
+      "무조건 해당",
+      "2명이면 해당",
+      "사망이 없으므로 해당 없음"
+    ],
+    "answerIndex": 0,
+    "explanation": "다목은 1년 이내 3명 발생이어야 합니다. 2년에 걸치면 기간 요건 미충족 가능.",
+    "lawRef": "법 제2조제2호다목"
+  },
+  {
+    "id": "H-26",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "시안화수소 노출 시 나타나는 증상은?",
+    "choices": [
+      "점막자극, 호흡곤란, 두통, 구역, 구토",
+      "화학적 화상, 폐수종",
+      "스티븐스존슨 증후군",
+      "감압병"
+    ],
+    "answerIndex": 0,
+    "explanation": "9호: 시안화수소 노출 점막자극, 호흡곤란, 두통, 구역, 구토 등 급성중독.",
+    "lawRef": "별표1 제9호"
+  },
+  {
+    "id": "H-27",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 1,
+    "question": "별표1 직업성 질병의 총 종류 수는?",
+    "choices": [
+      "24종",
+      "20종",
+      "30종",
+      "10종"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 별표1은 1호부터 24호까지 24종의 직업성 질병을 규정합니다.",
+    "lawRef": "별표1"
+  },
+  {
+    "id": "H-28",
+    "category": "H",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "수은(유기수은 제외) 노출 시 나타나는 증상은?",
+    "choices": [
+      "한기, 고열, 치조농루, 설사, 단백뇨",
+      "납 창백",
+      "의식소실",
+      "열사병"
+    ],
+    "answerIndex": 0,
+    "explanation": "3호: 수은(유기수은 제외) 노출 한기, 고열, 치조농루, 설사, 단백뇨 등 급성중독.",
+    "lawRef": "별표1 제3호"
+  }
+]

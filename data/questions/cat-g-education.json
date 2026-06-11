@@ -1,0 +1,130 @@
+[
+  {
+    "id": "G-01",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 1,
+    "question": "안전보건교육 이수 의무가 있는 자는?",
+    "choices": [
+      "중대산업재해 발생 법인·기관의 경영책임자등",
+      "모든 종사자",
+      "5인 미만 사업장 사업주",
+      "안전관리자만"
+    ],
+    "answerIndex": 0,
+    "explanation": "제8조제1항: 중대산업재해 발생 법인·기관의 경영책임자등은 안전보건교육을 이수해야 합니다.",
+    "lawRef": "법 제8조제1항"
+  },
+  {
+    "id": "G-02",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 1,
+    "question": "안전보건교육 미이수 시 과태료 상한은?",
+    "choices": [
+      "5천만원 이하",
+      "1천만원 이하",
+      "1억원 이하",
+      "100만원 이하"
+    ],
+    "answerIndex": 0,
+    "explanation": "제8조제2항: 정당한 사유 없이 교육 미이수 시 5천만원 이하 과태료.",
+    "lawRef": "법 제8조제2항"
+  },
+  {
+    "id": "G-03",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "안전보건교육 시간은?",
+    "choices": [
+      "총 20시간 범위 (고용노동부장관이 정하는 바에 따라)",
+      "총 8시간",
+      "총 40시간",
+      "총 4시간"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제6조제1항: 안전보건교육은 총 20시간 범위에서 이수합니다.",
+    "lawRef": "시행령 제6조제1항"
+  },
+  {
+    "id": "G-04",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "안전보건교육에 포함되어야 하는 사항이 아닌 것은?",
+    "choices": [
+      "공중이용시설 안전점검 방법",
+      "안전보건관리체계 구축 등 경영 방안",
+      "중대산업재해 원인 분석과 재발 방지 방안",
+      "도로교량 정밀안전진단 실시 절차"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제6조제2항: 교육 내용은 안전보건관리체계·중대산업재해 원인분석·재발방지 등. 공중이용시설은 중대시민재해 영역.",
+    "lawRef": "시행령 제6조제2항"
+  },
+  {
+    "id": "G-05",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "교육대상자에게 교육일정 등을 통보하는 시기는?",
+    "choices": [
+      "교육 실시일 30일 전까지",
+      "교육 실시일 7일 전까지",
+      "교육 당일",
+      "교육 실시일 60일 전까지"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제6조제4항: 교육 실시일 30일 전까지 통보해야 합니다.",
+    "lawRef": "시행령 제6조제4항"
+  },
+  {
+    "id": "G-06",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "교육대상자의 교육 연기 요청 기한은?",
+    "choices": [
+      "교육 실시일 7일 전까지 (1회만 가능)",
+      "교육 실시일 30일 전까지",
+      "교육 당일",
+      "제한 없음"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제6조제5항: 정당한 사유 시 교육일 7일 전까지 연기를 1회만 요청 가능.",
+    "lawRef": "시행령 제6조제5항"
+  },
+  {
+    "id": "G-07",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "안전보건교육 비용 부담 주체는?",
+    "choices": [
+      "교육대상자(수강자)",
+      "고용노동부",
+      "사업장 전체",
+      "교육기관"
+    ],
+    "answerIndex": 0,
+    "explanation": "시행령 제6조제8항: 교육 비용은 수강하는 교육대상자가 부담합니다.",
+    "lawRef": "시행령 제6조제8항"
+  },
+  {
+    "id": "G-08",
+    "category": "G",
+    "scope": "industrial",
+    "difficulty": 2,
+    "question": "과태료 부과·징수 권한자는?",
+    "choices": [
+      "고용노동부장관",
+      "법무부장관",
+      "검찰총장",
+      "사업주"
+    ],
+    "answerIndex": 0,
+    "explanation": "제8조제3항: 과태료는 대통령령에 따라 고용노동부장관이 부과·징수합니다.",
+    "lawRef": "법 제8조제3항"
+  }
+]
